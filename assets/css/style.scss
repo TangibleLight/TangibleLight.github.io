@@ -29,12 +29,17 @@
     font-style: italic;
 }
 
+
+@font-face {
+    font-family: "Fairfax HD";
+    src: url("/assets/font/FairfaxHD.ttf");
+}
+
 body, h1, h2, h3, h4, h5, h6, th,
 {
     font-family: "Inter Alia", "Lucida Grande", "Calibri", "Helvetica" "Arial", sans-serif;
 }
 
 pre, code {
-    // placeholder till I find a real monospace font
-    font-family: "Inter Alia", "Monaco", "Bitstream Vera Sans Mono", "Lucida Console", "Terminal", monospace;
+    font-family: "Fairfax HD", "Monaco", "Bitstream Vera Sans Mono", "Lucida Console", "Terminal", monospace;
 }
