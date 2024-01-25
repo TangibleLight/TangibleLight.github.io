@@ -1,14 +1,14 @@
-<style>
-.ident {
-    margin-left: 3ch;
-}
-</style>
-
 # 𐑞𐑱𐑼 𐑥𐑱𐑛 𐑬𐑑 𐑝 𐑥𐑰𐑑
 
 𐑚𐑲 ·𐑑𐑧𐑮𐑦 𐑚𐑦𐑕𐑩𐑯 [(𐑼𐑦𐑡𐑦𐑯𐑩𐑤)](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
 
 ---
+
+<style>
+.ident {
+    margin-left: 3ch;
+}
+</style>
 
 "𐑞𐑱𐑼 𐑥𐑱𐑛 𐑬𐑑 𐑝 𐑥𐑰𐑑."
 
