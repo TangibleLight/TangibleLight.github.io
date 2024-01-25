@@ -1,9 +1,3 @@
-<style>
-p {
-    word-spacing: 0.5ch;
-}
-</style>
-
 # 𐑞 𐑧𐑜 
 
 𐑚𐑲 ·𐑨𐑯𐑛𐑦 𐑢𐑽 [(𐑼𐑦𐑡𐑦𐑯𐑩𐑤)](https://galactanet.com/oneoff/theegg_mod.html)
