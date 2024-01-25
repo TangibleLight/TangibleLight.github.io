@@ -4,7 +4,11 @@ p {
 }
 </style>
 
-# 𐑞 𐑧𐑜 - 𐑚𐑲 ·𐑨𐑯𐑛𐑦 𐑢𐑽
+# 𐑞 𐑧𐑜 
+
+𐑚𐑲 ·𐑨𐑯𐑛𐑦 𐑢𐑽 [(𐑼𐑦𐑡𐑦𐑯𐑩𐑤)](https://galactanet.com/oneoff/theegg_mod.html)
+
+---
 
 𐑿 𐑢𐑻 𐑪𐑯 𐑘𐑹 𐑢𐑱 𐑣𐑴𐑥 𐑢𐑧𐑯 𐑿 𐑛𐑲𐑛.
 
