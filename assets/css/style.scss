@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+// Inter Alia from https://github.com/Shavian-info/interalia
+
 @font-face {
     font-family: "Inter Alia";
     src: url("/assets/font/InterAlia-Regular.ttf");
@@ -27,6 +29,14 @@
     font-style: italic;
 }
 
-body {
-    font-family: "Inter Alia", inherit;
+body, h1, h2, h3, h4, h5, h6, th,
+{
+    font-family: "Inter Alia", "Lucida Grande", "Calibri", "Helvetica" "Arial", sans-serif;
+    color: red;  // debug
+}
+
+pre, code {
+    // placeholder till I find a real monospace font
+    font-family: "Inter Alia", "Monaco", "Bitstream Vera Sans Mono", "Lucida Console", "Terminal", monospace;
+    color: green; // debug
 }
