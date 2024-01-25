@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+    font-family: "Inter Alia";
+    src: url("/assets/font/InterAlia-Regular.ttf");
+}
