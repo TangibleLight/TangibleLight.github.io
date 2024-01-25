@@ -7,3 +7,26 @@
     font-family: "Inter Alia";
     src: url("/assets/font/InterAlia-Regular.ttf");
 }
+
+@font-face {
+    font-family: "Inter Alia";
+    src: url("/assets/font/InterAlia-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Inter Alia";
+    src: url("/assets/font/InterAlia-Italic.ttf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Inter Alia";
+    src: url("/assets/font/InterAlia-BoldItalic.ttf");
+    font-weight: bold;
+    font-style: italic;
+}
+
+body {
+    font-family: "Inter Alia", inherit;
+}
